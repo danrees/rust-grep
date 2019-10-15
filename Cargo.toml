@@ -1,5 +1,5 @@
 [package]
-name = "rust-grep"
+name = "minigrep"
 version = "0.1.0"
 authors = ["Daniel Rees <daniel_james_rees@hotmail.com>"]
 edition = "2018"
